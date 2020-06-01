@@ -1,0 +1,10 @@
+{
+    "distress_conditions": [
+        {
+            "distress_condition_name": "Distress Conditions A"
+        },
+        {
+            "distress_condition_name": "Distress Conditions B"
+        }
+    ]
+}
